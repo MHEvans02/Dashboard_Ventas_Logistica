@@ -3,7 +3,7 @@
 **Autor:** Michael Hans Evans  
 **Dataset:** Sample Superstore (Kaggle) | 2014–2017  
 **Stack:** Python · SQL · Power BI · Plotly Dash  
-**Tipo de modelo:** Snowflake Schema en 3FN — 14 tablas
+**Tipo de modelo:** Snowflake Schema en 3FN — 13 tablas
 
 ---
 
