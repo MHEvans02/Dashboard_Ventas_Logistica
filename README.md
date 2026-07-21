@@ -352,3 +352,13 @@ jupyter notebook notebooks/04_dashboard_plotly.ipynb
 3. **Central necesita intervención** — 3ra región en ventas pero con el peor margen (7.92%), casi la mitad del margen de West (14.94%).
 4. **El 80% de los clientes tiene órdenes con pérdida** — señal de que la política de descuentos está mal calibrada a nivel individual.
 5. **Q4 es crítico** — 38% de las ventas anuales en 3 meses. La planificación logística y de inventario debe anticipar este pico consistente.
+
+## Contacto
+
+**Michael Hans Evans** — Data Analyst
+
+* 💻 [GitHub: MHEvans02](https://github.com/MHEvans02)
+* LinkedIn · [michael-hans-evans](https://www.linkedin.com/in/michael-hans-evans-5a9209250)
+* Portfolio · [Notion](https://future-celery-bcc.notion.site/Proyectos-35022028f65080fbad10f671d49da06c)
+* Tableau Public · [Análisis de Churn — Telco](https://public.tableau.com/app/profile/michael.hans.evans)
+* Email · [michael.hans.evans@gmail.com](mailto:michael.hans.evans@gmail.com)
